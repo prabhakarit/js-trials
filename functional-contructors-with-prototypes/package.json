@@ -1,0 +1,9 @@
+{
+    "description": "testing",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "node-cache": "5.1.2"
+    }
+}
